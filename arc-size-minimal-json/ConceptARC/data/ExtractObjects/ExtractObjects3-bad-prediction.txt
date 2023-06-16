@@ -1,0 +1,6 @@
+{"test":[{"output_size":{"width":5,"height":5}},{"output_size":{"width":5,"height":5}},{"output_size":{"width":5,"height":5}}]}
+
+
+--
+This is a bad prediction!
+Predicted ["5x5", "5x5", "5x5"]. But the actual size is ["4x4", "6x6", "12x12"]
