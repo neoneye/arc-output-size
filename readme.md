@@ -1,5 +1,7 @@
 # Predicting the output size of an ARC task
 
+[Video explanation](https://youtu.be/u-A8IpVhMns)
+
 Using the command line tool [loda-rust](https://github.com/loda-lang/loda-rust) for making guesses about the output size.
 
 
