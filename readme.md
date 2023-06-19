@@ -9,9 +9,9 @@ Using the command line tool [loda-rust](https://github.com/loda-lang/loda-rust) 
 
 ```
 count_tasks: 800  The number of tasks processed.
-count_ok_predictions: 742  Predictions that matches with the actual data.
+count_ok_predictions: 744  Predictions that matches with the actual data.
 count_bad_predictions: 4  Predictions that are different than the actual data.
-count_cannot_predict: 54  Unable to make a prediction. Insufficient data, lack of algorithms for predicting.
+count_cannot_predict: 52  Unable to make a prediction. Insufficient data, lack of algorithms for predicting.
 count_other_errors: 0  Something went wrong.
 count_same_size: 532  Number of tasks where input size and output size are the same.
 ```
